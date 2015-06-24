@@ -1,0 +1,22 @@
+{
+  "name": "jbrinley/WP-Router",
+  "description": "Routes paths to callback functions in WordPress",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/jbrinley/WP-Router",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jonathan Brinley",
+      "homepage": "http://xplus3.net/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "support": {
+    "issues": "https://github.com/jbrinley/WP-Router/issues",
+    "wiki": "https://github.com/jbrinley/WP-Router/wiki",
+    "source": "https://github.com/jbrinley/WP-Router"
+  },
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
